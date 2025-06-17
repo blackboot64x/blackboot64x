@@ -8,7 +8,7 @@
 - 😂 Fun fact: **Developers don’t go crazy— they just switch tabs and forget what they were doing!**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/mrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrefatalhasan" height="30" width="40" /></a>
+<a href="https://twitter.com/mrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrefatalhasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrefatalhasan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/refatahkaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="refatahkaif" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/refatahkaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="refatahkaif" height="30" width="40" /></a>
