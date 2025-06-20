@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
-<h3 align="center">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h3>
+<h3 align="center">I am not a hacker but my favorite color is green 🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrefatalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mrefatalhasan" /> </p>
 
