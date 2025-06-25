@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daemonofroot&show_icons=true&locale=en" alt="daemonofroot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daemonofroot&" alt="daemonofroot" /></p>
