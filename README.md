@@ -10,20 +10,6 @@
 
 <h4 align="left">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h4>
 
-###
-
-<h3 align="left">Me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/daemonofroot/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/daemonofroot" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
 <h3 align="center">I am not a hacker but my favorite color is green 🙂</h3>
 
@@ -38,7 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daemonofroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daemonofroot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daemonofroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daemonofroot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/daemonofroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daemonofroot" height="30" width="40"/></a>
+<a href="https://t.me/daemonofroot" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
