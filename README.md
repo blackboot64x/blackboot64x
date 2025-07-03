@@ -20,9 +20,11 @@
   </a>
 </p>
 
+<h3 align="left">GitHub Trophies:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
-<br>
+<h3 align="left">GitHub Trophies:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daemonofroot" alt="daemonofroot" /></a> </p>
 
