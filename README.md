@@ -11,14 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://t.me/daemonofroot" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/daemonofroot" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daemonofroot" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/daemonofroot" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daemonofroot" height="30" width="40" />
-  </a>
-  <a href="https://t.me/daemonofroot" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" height="30" width="40" />
   </a>
 </p>
 
