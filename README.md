@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
 <h3 align="center">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h3>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daemonofroot&label=Profile%20views&color=0e75b6&style=flat" alt="daemonofroot" /> </p>
 
 <h3 align="left">Message me:</h3>
@@ -21,6 +19,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
 <h3 align="left">GitHub Trophies:</h3>
 
