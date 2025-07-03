@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<h3 align="left">Languages I Use:</h3>
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
 <h3 align="left">GitHub Trophies:</h3>
