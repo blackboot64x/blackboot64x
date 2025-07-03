@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
 <h3 align="center">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daemonofroot&label=Profile%20views&color=0e75b6&style=flat" alt="daemonofroot" /> </p>
 
