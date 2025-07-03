@@ -3,26 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daemonofroot&label=Profile%20views&color=0e75b6&style=flat" alt="daemonofroot" /> </p>
 
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+  <a href="https://t.me/daemonofroot" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="60" width="80" />
+  </a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daemonofroot" alt="daemonofroot" /></a> </p>
 
-- 📫 How to reach me: **https://t.me/daemonofroot**
-
-- ⚡ **I don’t fix bugs. I rewrite reality**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/daemonofroot" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/daemonofroot" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Message me on Telegram:</h3>
-<p align="left">
-  <a href="https://t.me/daemonofroot" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="60" width="80" />
   </a>
 </p>
 
