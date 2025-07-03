@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daemonofroot&label=Profile%20views&color=0e75b6&style=flat" alt="daemonofroot" /> </p>
 
-<h3 align="left">📫 How to reach me:</h3>
+<h3 align="left">Message me:</h3>
 <p align="left">
   <a href="https://t.me/daemonofroot" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="60" width="80" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="45" width="60" />
   </a>
 </p>
 
