@@ -1,17 +1,5 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/daemonofroot/count.svg?"  />
-</div>
-
-###
-
-<h1 align="left">Hi, I am Refat al hasan</h1>
-
-###
-
-<h4 align="left">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h4>
-
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
-<h3 align="center">I am not a hacker but my favorite color is green 🙂</h3>
+<h3 align="center">Full-stack developer | Specializing in end-to-end digital solutions 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daemonofroot&label=Profile%20views&color=0e75b6&style=flat" alt="daemonofroot" /> </p>
 
@@ -25,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/daemonofroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daemonofroot" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/daemonofroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daemonofroot" height="30" width="40"/></a>
-<a href="https://t.me/daemonofroot" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
+<a href="https://t.me/daemonofroot" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" height="30"  width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,13 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daemonofroot&show_icons=true&locale=en&layout=compact" alt="daemonofroot" /></p>
 
-
-
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daemonofroot&radius=0&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
-
-###
