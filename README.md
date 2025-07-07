@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboot64x" alt="blackboot64x" /></a> </p>
 
-- 📫 How to reach me: **https://t.me/blackboot64x**
+- 📫 **https://t.me/blackboot64x**
 
 - 🥱 **Push fearlessly regret nothing**
 
