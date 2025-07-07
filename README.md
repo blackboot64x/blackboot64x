@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboot64x&label=Profile%20views&color=0e75b6&style=flat" alt="blackboot64x" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackboot64x&show_icons=true&locale=en&layout=compact" alt="blackboot64x" /></p>
-
-
 
 - 📫 **https://t.me/blackboot64x**
 
 - 🥱 **Push fearlessly regret nothing**
   
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackboot64x&show_icons=true&locale=en&layout=compact" alt="blackboot64x" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
